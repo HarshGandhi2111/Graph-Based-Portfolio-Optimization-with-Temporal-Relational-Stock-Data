@@ -12,7 +12,7 @@ This project implements a **Graph-based Portfolio Optimization** approach using 
 
 ## Usage
 
-- Open and run the `portfolio_optimization.ipynb` Jupyter notebook to:
+- Open and run the `aibf-assignment.ipynb` Jupyter notebook to:
   - Preprocess the stock data.
   - Train the reinforcement learning agent.
   - Evaluate the performance of the optimized portfolio.
